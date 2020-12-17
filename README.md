@@ -1,2 +1,2 @@
 # TechFund-SoftUni
-Solutions of exercises from the SoftUni "Technology Fundamentals" module.
+In the "src" folder are many solutions of exercises from the SoftUni "Technology Fundamentals" module.
